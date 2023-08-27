@@ -73,7 +73,7 @@
 
 ## Deploy to Heroku               
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=(https://github.com/tuhinsrkr/PROFESSOR-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tuhinsrkr/PROFESSOR-BOT)
 
 ## Deploy to Koyeb
 
